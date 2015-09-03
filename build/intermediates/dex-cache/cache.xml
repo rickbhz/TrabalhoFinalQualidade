@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Cadu\Documents\GitHub\TrabalhoFinalQualidade\citacoeslib\build\libs\citacoeslib.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="0ef902b8fc93bdd01840bed0cfba4230395b2b3a">
+        <dex dex="C:\Users\Cadu\Documents\GitHub\TrabalhoFinalQualidade\app\build\intermediates\pre-dexed\free\debug\citacoeslib-0f238a53eb0be38b1b15a0591c1741e26b9f0e66.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Trabalho Final</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="banner_ad_unit_id">ca-app-pub-8582493664757085/5100984459</string>
+    <string name="Citation">Escreva a citação</string>
+    <string name="title_activity_display_citation">MostraCitacaoActivity</string>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+</resources>
